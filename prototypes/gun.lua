@@ -3,6 +3,7 @@ data:extend {
       type = "gun",
       name = "nuclear-vehicle-rocket-launcher",
       icon = "__base__/graphics/icons/rocket-launcher.png",
+      icon_size = 32,
       flags = {"goes-to-main-inventory", "hidden"},
       subgroup = "gun",
       order = "b[rocket-launcher]-b[nuclear-vehicle-rocket-launcher]",

@@ -1,11 +1,11 @@
 {
     "name": "NuclearVehicles",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Nuclear Vehicles",
     "author": "Eric Kidd",
     "contact": "git@randomhacks.net",
     "homepage": "https://github.com/emk/FactorioNuclearVehicles",
-    "factorio_version": "0.15",
-    "dependencies": ["base >= 0.15"],
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
     "description": "A nuclear tank with a rocket launcher and equipment grid! Designed to make clearing screen-sized behemoth nests more fun (but you still need skill and weapons production to win)."
 }

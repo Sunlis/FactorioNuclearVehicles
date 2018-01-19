@@ -2,7 +2,8 @@ data:extend {
    {
       type = "technology",
       name = "nuclear-vehicles",
-      icon = "__base__/graphics/entity/steam-turbine/steam-turbine-H.png",
+      icon = "__base__/graphics/icons/steam-turbine.png",
+      icon_size = 32,
       effects = {
          {
             type = "unlock-recipe",
@@ -27,6 +28,7 @@ data:extend {
       type = "technology",
       name = "nuclear-vehicle-tanks",
       icon = "__base__/graphics/technology/tanks.png",
+      icon_size = 128,
       effects = {
          {
             type = "unlock-recipe",
